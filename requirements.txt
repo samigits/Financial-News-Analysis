@@ -5,5 +5,4 @@ seaborn
 nltk
 jupyter
 pytest
-re
 sklearn
