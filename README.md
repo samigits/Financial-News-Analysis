@@ -71,13 +71,13 @@ The dataset includes the following fields:
 ---
 
 ## 📂 Folder Structure
-financial-news-eda/
-├── data/
-│ └── your_data.csv
-├── notebooks/
-│ └── analysis.ipynb
-├── requirements.txt
-└── README.md
+financial-news-eda/  
+├── data/  
+│ └── your_data.csv  
+├── notebooks/  
+│ └── analysis.ipynb  
+├── requirements.txt  
+└── README.md  
 
 
 ## 📬 Contributions
