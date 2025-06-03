@@ -6,6 +6,6 @@ nltk
 jupyter
 pytest
 scikit-learn
-talib
+# talib
 pynance
 ta
