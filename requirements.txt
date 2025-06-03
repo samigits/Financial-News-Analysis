@@ -6,3 +6,6 @@ nltk
 jupyter
 pytest
 scikit-learn
+# talib
+pynance
+ta
